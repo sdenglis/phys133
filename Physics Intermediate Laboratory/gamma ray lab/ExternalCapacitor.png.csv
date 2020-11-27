@@ -1,0 +1,3 @@
+,Voltage (V),Amplitude (V),Time Constant (ms)
+With Capacitor (1.8 nF),840,0.568,1.248
+Without Capacitor,840,1.50,0.5220
